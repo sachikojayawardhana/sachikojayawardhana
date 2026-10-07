@@ -4,7 +4,7 @@
 I am an enthusiastic **BICT Undergraduate** with a passion for building clean, user-friendly, and impactful web applications. I love learning new technologies and collaborating on exciting open-source projects.
 
 - 🎓 **Studying:** BICT
-- 📍 **Location:** Sri Lanka 🇱🇰
+- 📍 **Location:** Rajarata University Of Sri Lanka 🇱🇰
 - ✉️ **Contact Me:** sachikojayawardana84@gmail.com
 
 ---
@@ -21,6 +21,8 @@ I am an enthusiastic **BICT Undergraduate** with a passion for building clean, u
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
 ![VS Code](https://shields.io)
+![Trello](https://shields.io)
+
 
 ---
 
