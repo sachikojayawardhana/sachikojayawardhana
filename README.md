@@ -26,7 +26,6 @@ I am an enthusiastic **BICT Undergraduate** with a passion for building clean, u
 ![VS Code](https://shields.io)
 ![Trello](https://shields.io)
 
-
 ---
 
 ### 📊 GitHub Stats
