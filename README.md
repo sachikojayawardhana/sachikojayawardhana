@@ -8,8 +8,6 @@ I am an enthusiastic **BICT Undergraduate** with a passion for building clean, u
 - ✉️ **Contact Me:** sachikojayawardana84@gmail.com
 - 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
 
-
-
 ---
 ### 🛠️ Tech Stack & Skills
 
