@@ -3,29 +3,20 @@
 ### 👩‍💻 About Me
 I am an enthusiastic **BICT Undergraduate** with a passion for building clean, user-friendly, and impactful web applications. I love learning new technologies and collaborating on exciting open-source projects.
 
-- 🎓 **Studying:** BICT
+- 🎓 **Studying:** Bachelor of Information and Communication Technology (BICT)
 - 📍 **Location:** Rajarata University Of Sri Lanka 🇱🇰
 - ✉️ **Contact Me:** sachikojayawardana84@gmail.com
-- 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
+- 💼 **LinkedIn:** [Sachiko Jayawardhana](https://linkedin.com)
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Languages & Frontend
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-
-#### 🔧 Tools & Platforms
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-![Trello](https://shields.io)
+- **Languages:** HTML5, CSS3, JavaScript
+- **Libraries/Frameworks:** React
+- **Tools & Platforms:** Git, GitHub, VS Code, Trello
 
 ---
 
 ### 📊 GitHub Stats
-![Sachiko's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+*(My GitHub stats, repositories, and open-source contributions can be explored directly through the repositories tab above!)*
