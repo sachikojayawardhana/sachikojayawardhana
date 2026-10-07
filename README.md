@@ -6,6 +6,9 @@ I am an enthusiastic **BICT Undergraduate** with a passion for building clean, u
 - 🎓 **Studying:** BICT
 - 📍 **Location:** Rajarata University Of Sri Lanka 🇱🇰
 - ✉️ **Contact Me:** sachikojayawardana84@gmail.com
+- 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
+
+
 
 ---
 
