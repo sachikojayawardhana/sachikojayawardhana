@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sachiko Jayawardhana 👋
 
-<!--
-**sachikojayawardhana/sachikojayawardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+I am an enthusiastic **BICT Undergraduate** with a passion for building clean, user-friendly, and impactful web applications. I love learning new technologies and collaborating on exciting open-source projects.
 
-Here are some ideas to get you started:
+- 🎓 **Studying:** BICT
+- 📍 **Location:** Sri Lanka 🇱🇰
+- ✉️ **Contact Me:** sachikojayawardana84@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 💻 Languages & Frontend
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+
+#### 🔧 Tools & Platforms
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
+
+---
+
+### 📊 GitHub Stats
+![Sachiko's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
